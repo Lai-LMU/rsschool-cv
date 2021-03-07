@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Anastasia_Poleshuk.github.io/rsschool-cv/cv
+https://github.com/Lai-LMU/rsschool-cv
